@@ -1,0 +1,4 @@
+game_id: 710358
+
+xpath:
+  all_reviews: //*[@id="all-app-reviews"]/div[@class="reviews-list__wrap"]
